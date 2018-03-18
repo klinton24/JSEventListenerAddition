@@ -1,3 +1,17 @@
 body {
     background-color: darkcyan;
 }
+
+label {
+    margin: 0 0 0 15px;
+}
+
+#wrap {
+    width: 960px;
+    height: 480px;
+    margin: 0 auto;
+    padding-top: 40px;
+    background: #ccc;
+    text-align: center;
+    border-radius: 15px;
+}
